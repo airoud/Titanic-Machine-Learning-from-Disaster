@@ -1,2 +1,2 @@
 # Titanic-Machine-Learning-from-Disaster
-Kaggle competition
+In this project, you will find my contribution to the "Titanic Disater" competition from Kaggle
